@@ -1,0 +1,2 @@
+class	DNSRequestFormatError(Exception):
+	pass
